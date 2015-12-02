@@ -1,4 +1,4 @@
-a = [1, 2, 3]
-a.each do |n|
+b = [2, 3, 4]
+b.each do |n|
     puts n.to_s
 end
